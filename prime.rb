@@ -1,5 +1,6 @@
 def prime?(number)
   case number
-    when
+    when number > 2
+      return false
   end
 end
