@@ -1,3 +1,4 @@
-def prime?
+def prime?(number)
+  case 
 
 end
