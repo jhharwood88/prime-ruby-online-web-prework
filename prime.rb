@@ -1,4 +1,4 @@
 def prime?(number)
-  case 
+  case number
 
 end
